@@ -1,0 +1,15 @@
+{
+  "name": "button",
+  "version": "1.0.0",
+  "description": "Plugin button",
+  "main": "button.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Unknown",
+  "license": "ISC",
+  "dependencies": {
+    "discord-buttons-plugin": "^1.1.0",
+    "discord.js": "^12.5.3"
+  }
+}
